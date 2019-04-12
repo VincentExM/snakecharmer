@@ -25,7 +25,7 @@ print(sys.version_info.__str__() + "\n")
 
 print(str(datetime.datetime.now()))
 
-# This is my first python program <3
+# This is my first python program <3 yahoo
 r = float(input("Input the radius of a circle: "))
 print("The area of the cirlce with radius " + str(r) + " is: " + str(pi * r ** 2))
 
